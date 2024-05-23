@@ -1,0 +1,8 @@
+2022-10-21 18:57:38,009:calc_cube:<code object calc_cube at 0x7fe88d3cfae0, file "perf_logging.py", line 33>:19.6963ms
+2022-10-21 18:58:56,217:calc_cube:<code object calc_cube at 0x7f9465d9eae0, file "perf_logging.py", line 35>:19.7481ms
+2022-10-21 18:58:57,350:calc_cube:<code object calc_cube at 0x7f87da091ae0, file "perf_logging.py", line 35>:20.0147ms
+2022-10-21 18:58:58,236:calc_cube:<code object calc_cube at 0x7f59ac5f7ae0, file "perf_logging.py", line 35>:19.6417ms
+2022-10-21 18:59:31,494:calc_cube:<code object calc_cube at 0x7f723c642ae0, file "perf_logging.py", line 35>:19.9063ms
+2022-10-21 18:59:47,185:calc_cube:<code object calc_cube at 0x7f4c3472bae0, file "perf_logging.py", line 35>:20.1597ms
+2022-10-21 18:59:49,154:calc_cube:<code object calc_cube at 0x7f4501d85ae0, file "perf_logging.py", line 35>:19.6553ms
+2022-10-21 18:59:50,049:calc_cube:<code object calc_cube at 0x7f4fade49ae0, file "perf_logging.py", line 35>:19.5500ms
